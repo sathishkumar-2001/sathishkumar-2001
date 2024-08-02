@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathishkumar-2001
-- 🧑‍💻 currently looking for opurtunities 
+- 🧑‍💻 currently looking for opportunities to showcase myself 
 - 👀 I’m interested in devops , cloud and ML , AI
 - 🌱 Continous learning is important , so learning anything daily (tech) and posting here
 - 💞️ I’m looking to collaborate on the open source projects
