@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathishkumar-2001
-- 🧑‍💻 currently looking for open source opportunities to showcase myself 
+- 🧑‍💻 currently looking for open source opportunities in the field of devops or cloud tech
 - 👀 I’m interested in devops , cloud and ML , AI
 - 🌱 Continous learning is important , so learning anything daily (tech) and posting here
 - 💞️ I’m looking to collaborate on the open source projects
