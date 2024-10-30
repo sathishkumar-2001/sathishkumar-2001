@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathishkumar-2001
 - 🧑‍💻 DevSecOps Engineer 
-- 👀 I’m currenlty working in the fielf of DevOps , Cloud computing , MlOps , and also gitlab certified PSE
+- 👀 I’m currenlty working in the field of DevOps , Cloud computing , MlOps , and also gitlab certified PSE
 - 🌱 Continous learning is important , so learning anything daily (tech) and posting here
 - 💞️ I’m looking to collaborate on the open source projects
 - 📫 How to reach me Linkedin - https://www.linkedin.com/in/sathish-kumar-s-603237268/
